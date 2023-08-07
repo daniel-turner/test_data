@@ -1,11 +1,11 @@
 {
-    "gameid":
-    {
-        "0": 21500336
-    },
     "gamedate":
     {
         "0": "2015-12-11"
+    },
+    "gameid":
+    {
+        "0": 21500336
     },
     "frameid":
     {
@@ -222,215 +222,14 @@
             ]
         }
     },
-    "events":
-    [
-        {
-            "eventId": "1",
-            "visitor":
-            {
-                "name": "Golden State Warriors",
-                "teamid": "1",
-                "abbreviation": "GSW",
-                "players":
-                [
-                    [
-                        {
-                            "lastname": "Thompson",
-                            "firstname": "Jason",
-                            "playerid": 201574,
-                            "jersey": "1",
-                            "position": "F-C"
-                        },
-                        {
-                            "lastname": "Rush",
-                            "firstname": "Brandon",
-                            "playerid": 201575,
-                            "jersey": "4",
-                            "position": "G-F"
-                        },
-                        {
-                            "lastname": "Speights",
-                            "firstname": "Marreese",
-                            "playerid": 201578,
-                            "jersey": "5",
-                            "position": "F-C"
-                        },
-                        {
-                            "lastname": "Iguodala",
-                            "firstname": "Andre",
-                            "playerid": 2738,
-                            "jersey": "9",
-                            "position": "G-F"
-                        },
-                        {
-                            "lastname": "Bogut",
-                            "firstname": "Andrew",
-                            "playerid": 101106,
-                            "jersey": "12",
-                            "position": "C"
-                        },
-                        {
-                            "lastname": "Barbosa",
-                            "firstname": "Leandro",
-                            "playerid": 2571,
-                            "jersey": "19",
-                            "position": "G"
-                        },
-                        {
-                            "lastname": "McAdoo",
-                            "firstname": "James Michael",
-                            "playerid": 203949,
-                            "jersey": "20",
-                            "position": "F"
-                        },
-                        {
-                            "lastname": "Clark",
-                            "firstname": "Ian",
-                            "playerid": 203546,
-                            "jersey": "21",
-                            "position": "G"
-                        },
-                        {
-                            "lastname": "Green",
-                            "firstname": "Draymond",
-                            "playerid": 203110,
-                            "jersey": "23",
-                            "position": "F"
-                        },
-                        {
-                            "lastname": "Curry",
-                            "firstname": "Stephen",
-                            "playerid": 201939,
-                            "jersey": "30",
-                            "position": "G"
-                        },
-                        {
-                            "lastname": "Ezeli",
-                            "firstname": "Festus",
-                            "playerid": 203105,
-                            "jersey": "31",
-                            "position": "C"
-                        },
-                        {
-                            "lastname": "Livingston",
-                            "firstname": "Shaun",
-                            "playerid": 2733,
-                            "jersey": "34",
-                            "position": "G"
-                        },
-                        {
-                            "lastname": "Thompson",
-                            "firstname": "Klay",
-                            "playerid": 202691,
-                            "jersey": "11",
-                            "position": "G"
-                        }
-                    ]
-                ]
-            },
-            "home":
-            {
-                "name": "Boston Celtics",
-                "teamid": "2",
-                "abbreviation": "BOS",
-                "players":
-                [
-                    [
-                        {
-                            "lastname": "Bradley",
-                            "firstname": "Avery",
-                            "playerid": 202340,
-                            "jersey": "0",
-                            "position": "G"
-                        },
-                        {
-                            "lastname": "Thomas",
-                            "firstname": "Isaiah",
-                            "playerid": 202738,
-                            "jersey": "4",
-                            "position": "G"
-                        },
-                        {
-                            "lastname": "Sullinger",
-                            "firstname": "Jared",
-                            "playerid": 203096,
-                            "jersey": "7",
-                            "position": "C-F"
-                        },
-                        {
-                            "lastname": "Jerebko",
-                            "firstname": "Jonas",
-                            "playerid": 201973,
-                            "jersey": "8",
-                            "position": "F"
-                        },
-                        {
-                            "lastname": "Turner",
-                            "firstname": "Evan",
-                            "playerid": 202323,
-                            "jersey": "11",
-                            "position": "G-F"
-                        },
-                        {
-                            "lastname": "Rozier",
-                            "firstname": "Terry",
-                            "playerid": 1626179,
-                            "jersey": "12",
-                            "position": "G"
-                        },
-                        {
-                            "lastname": "Young",
-                            "firstname": "James",
-                            "playerid": 203923,
-                            "jersey": "13",
-                            "position": "G-F"
-                        },
-                        {
-                            "lastname": "Olynyk",
-                            "firstname": "Kelly",
-                            "playerid": 203482,
-                            "jersey": "41",
-                            "position": "C-F"
-                        },
-                        {
-                            "lastname": "Lee",
-                            "firstname": "David",
-                            "playerid": 101135,
-                            "jersey": "42",
-                            "position": "F-C"
-                        },
-                        {
-                            "lastname": "Zeller",
-                            "firstname": "Tyler",
-                            "playerid": 203092,
-                            "jersey": "44",
-                            "position": "C-F"
-                        },
-                        {
-                            "lastname": "Johnson",
-                            "firstname": "Amir",
-                            "playerid": 101161,
-                            "jersey": "90",
-                            "position": "F"
-                        },
-                        {
-                            "lastname": "Crowder",
-                            "firstname": "Jae",
-                            "playerid": 203109,
-                            "jersey": "99",
-                            "position": "F"
-                        }
-                    ]
-                ]
-            },
             "frames":
             {
                 "0":
                 {
                     "0":
                     {
-                        "game_clock": 106.0,
                         "index": 0,
+                        "game_clock": 106.0,
                         "moments":
                         [
                             [
@@ -514,6 +313,4 @@
                     }
                 }
             }
-        }
-    ]
 }
