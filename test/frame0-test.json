@@ -28,7 +28,7 @@
             "name": "Boston Celtics",
             "players":
             [
-                [
+                
                     {
                         "lastname": "Bradley",
                         "firstname": "Avery",
@@ -114,7 +114,7 @@
                         "position": "F"
                     }
                 ]
-            ]
+            
         }
     },
     "visitor":
@@ -126,7 +126,7 @@
             "name": "Golden State Warriors",
             "players":
             [
-                [
+                
                     {
                         "lastname": "Thompson",
                         "firstname": "Jason",
@@ -218,7 +218,7 @@
                         "jersey": "11",
                         "position": "G"
                     }
-                ]
+                
             ]
         }
     },
